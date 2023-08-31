@@ -1,9 +1,5 @@
 # Spam-Detection-Using-Machine-Learning
 
-
-Reference ---https://medium.com/@alinatabish/machine-learning-techniques-for-spam-detection-in-email-7db87eb11bc2
-
-
 The increase in the number of unwanted emails known as spam has produced a need for the development of more reliable and effective anti-spam filters. 
 Recently, machine learning algorithms have been effectively utilised to detect and filter spam emails. 
 In the field of natural language processing, there are numerous algorithms available for this kind of classification. 
@@ -24,6 +20,7 @@ Typically, spam emails contain a few recognisable terms that are pretty obvious 
  These strategies are also thoroughly compared in terms of accuracy, precision, recall, etc.
 
 
- Dataset resource -- https://www.kaggle.com/datasets/wanderfj/enron-spam
+Dataset resource -- https://www.kaggle.com/datasets/wanderfj/enron-spam
 
  
+Project Reference ---https://medium.com/@alinatabish/machine-learning-techniques-for-spam-detection-in-email-7db87eb11bc2
